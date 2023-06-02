@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180488783001",
+    "project_id": "taskari-firebase",
+    "storage_bucket": "taskari-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180488783001:android:b1c3fee2160e71300e6408",
+        "android_client_info": {
+          "package_name": "com.example.firebasesovellus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSBcGZptiNgxS8FCSB6vhdeKc-Pw1NbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

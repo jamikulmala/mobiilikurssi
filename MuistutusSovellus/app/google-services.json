@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278566798551",
+    "project_id": "muistutussovellus",
+    "storage_bucket": "muistutussovellus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278566798551:android:fedd95e3d981614a301c92",
+        "android_client_info": {
+          "package_name": "com.example.muistutussovellus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278566798551-d3dn5acdjjlrll69k5ip88b8oodpenvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPkVT-lhqPI9H5AKX8waCW3pYXo4SCXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278566798551-d3dn5acdjjlrll69k5ip88b8oodpenvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
